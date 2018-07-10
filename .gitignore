@@ -1,0 +1,6 @@
+#Ipython notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+#Personal Audio Files
+audio/
