@@ -3,7 +3,8 @@
 */.ipynb_checkpoints/*
 
 #Personal Audio Files
-audio/
+audio/*
+!audio/tracklist/
 
 ### VisualStudioCode ###
 .vscode/*
